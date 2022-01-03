@@ -1,0 +1,29 @@
+{
+  "name": "webpack-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "watch": "webpack -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlguswo333/webpack-boilerplate.git"
+  },
+  "keywords": ["webpack", "babel", "boilerplate"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlguswo333/webpack-boilerplate/issues"
+  },
+  "homepage": "https://github.com/dlguswo333/webpack-boilerplate#readme",
+  "devDependencies": {
+    "@babel/core": "^7.16.7",
+    "@babel/preset-env": "^7.16.7",
+    "babel-loader": "^8.2.3",
+    "core-js": "^3.20.2",
+    "webpack-cli": "^4.9.1"
+  }
+}
