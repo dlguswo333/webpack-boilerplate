@@ -4,4 +4,4 @@ console.log(b);
 let span=document.createElement("span");
 span.innerText="span";
 document.querySelector("body").appendChild(span);
-cosld.log('dd');
+console.log('dd');
